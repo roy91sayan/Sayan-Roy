@@ -1,0 +1,44 @@
+/*global css*/
+
+body { font-family: 'arial', sans-serif; background: #fff; margin: 0; font-size: 16px; color: #1a1a1a; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; -ms-overflow-style: scrollbar; overflow-x: hidden; }
+
+h1{ font-size: 3.125rem; font-weight: 400; }
+h2{ font-size: 3rem; font-weight: 400; }
+
+a, a:focus { color: #ef4a25; text-decoration: none; }
+a:hover {  text-decoration: none; }
+p a { text-decoration: none; }
+p a:hover { text-decoration: underline; }
+
+img { max-width: 100%; }
+input:focus, textarea:focus, button:focus { outline: none; box-shadow: none; }
+textarea { height: auto; }
+/*-------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+/*-------------------------------------------------------------
+------------------@media Rule Start--------------------------*/
+@media only screen and (min-width:1300px){
+  
+}
+/* ------------------------ SMALL DESKTOP ------------------------*/
+@media only screen and (min-width:992px) and (max-width:1169px) {
+
+}
+
+
+/* ------------------------ TABLET ------------------------*/
+@media only screen and (min-width:768px) and (max-width:991px) {
+   
+}
+/* ------------------------ Mobile ------------------------*/
+@media only screen and (max-width:767px) {
+}
+/* ------------------------ Mobile XS ------------------------*/
+@media (max-width: 575px) {
+}
